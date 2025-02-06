@@ -1,6 +1,6 @@
 <h1 style="font-size: 3em;">ROS 2 Integration for Franka Robotics Research Robots</h1>
 
-[![CI](https://github.com/frankaemika/franka_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/frankaemika/franka_ros2/actions/workflows/ci.yml)
+[![CI](https://github.com/Smith-JackSmith/franka_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/Smith-JackSmith/franka_ros2/actions/workflows/ci.yml)
 
 > **Note:** _franka_ros2_ is not officially supported on Windows.
 
