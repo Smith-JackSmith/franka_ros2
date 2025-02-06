@@ -1,4 +1,4 @@
-name: CI
+name: Franka ROS2 CI
 on:
   push:
     branches: [ humble, develop ]
